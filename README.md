@@ -13,10 +13,10 @@
 <p align="center"><b>Connect with me:</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pankaj-jaswani/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_2021.svg" height="32" alt="LinkedIn"/></a>&nbsp;<b>LinkedIn</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pankaj-jaswani/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_2021.svg/512px-LinkedIn_2021.svg.png" height="32" alt="LinkedIn"/></a>&nbsp;<b>LinkedIn</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pankaj.vasudha1@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="32" alt="Gmail"/></a>&nbsp;<b>Gmail</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pankaj-jaswani" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="32" alt="GitHub"/></a>&nbsp;<b>GitHub</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="tel:+917976455221" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp_Logo_green.svg" height="32" alt="WhatsApp"/></a>&nbsp;<b>WhatsApp</b>
+  <a href="tel:+917976455221" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp_Logo_green.svg/512px-WhatsApp_Logo_green.svg.png" height="32" alt="WhatsApp"/></a>&nbsp;<b>WhatsApp</b>
 </p>
 
 ---
