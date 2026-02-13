@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/profile-views-icon.svg" width="20" height="20" style="vertical-align:middle; margin-right: 10px;" /> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=pankaj-jaswani&label=&color=0D47A1&style=flat-square" alt="Profile Views" style="vertical-align:middle;" />
+  <img src="https://komarev.com/ghpvc/?username=pankaj-jaswani&label=&color=000000&style=flat-square&label_color=000000" alt="Profile Views" style="vertical-align:middle;" />
 </p>
 
 <p align="center"><b>Connect with me:</b></p>
