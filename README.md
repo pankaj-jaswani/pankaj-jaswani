@@ -12,12 +12,19 @@
 
 <p align="center"><b>Connect with me:</b></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pankaj-jaswani/" target="_blank"><img src="assets/linkedin-icon.svg" width="35" height="35" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="mailto:pankaj.vasudha1@gmail.com" target="_blank"><img src="assets/gmail-icon.svg" width="35" height="35" alt="Gmail"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pankaj-jaswani" target="_blank"><img src="assets/github-icon.svg" width="35" height="35" alt="GitHub"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="tel:+917976455221" target="_blank"><img src="assets/whatsapp-icon.svg" width="35" height="35" alt="Call Me"/></a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="middle"><a href="https://www.linkedin.com/in/pankaj-jaswani/" target="_blank"><img src="assets/linkedin-brand.png" height="30" alt="LinkedIn"/></a></td>
+    <td width="20"></td>
+    <td valign="middle"><a href="mailto:pankaj.vasudha1@gmail.com" target="_blank"><img src="assets/gmail-icon.svg" height="30" alt="Gmail"/></a></td>
+    <td valign="middle"><a href="mailto:pankaj.vasudha1@gmail.com" target="_blank"><b>&nbsp;Gmail</b></a></td>
+    <td width="20"></td>
+    <td valign="middle"><a href="https://github.com/pankaj-jaswani" target="_blank"><img src="assets/github-brand.png" height="30" alt="GitHub"/></a></td>
+    <td width="20"></td>
+    <td valign="middle"><a href="tel:+917976455221" target="_blank"><img src="assets/whatsapp-icon.svg" height="30" alt="WhatsApp"/></a></td>
+    <td valign="middle"><a href="tel:+917976455221" target="_blank"><b>&nbsp;WhatsApp</b></a></td>
+  </tr>
+</table>
 
 ---
 
