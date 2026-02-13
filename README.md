@@ -138,13 +138,18 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="30" /> &nbsp;Let's Connect!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pankaj-jaswani/"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:pankaj.vasudha1@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="tel:+917976455221"><img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100"><a href="https://www.linkedin.com/in/pankaj-jaswani/"><img src="assets/linkedin-icon.svg" width="48" height="48" alt="LinkedIn"/></a></td>
+    <td align="center" width="100"><a href="mailto:pankaj.vasudha1@gmail.com"><img src="assets/gmail-icon.svg" width="48" height="48" alt="Email"/></a></td>
+    <td align="center" width="100"><a href="tel:+917976455221"><img src="assets/whatsapp-icon.svg" width="48" height="48" alt="Call"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/pankaj-jaswani/"><b>LinkedIn</b></a></td>
+    <td align="center"><a href="mailto:pankaj.vasudha1@gmail.com"><b>Email</b></a></td>
+    <td align="center"><a href="tel:+917976455221"><b>Call Me</b></a></td>
+  </tr>
+</table>
 
 <br/>
 
