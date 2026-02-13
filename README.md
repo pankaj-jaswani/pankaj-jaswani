@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pankaj-jaswani&label=&color=000000&style=flat-square&label_color=000000" alt="Profile Views" style="vertical-align:middle;" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpankaj-jaswani&count_bg=%23000000&title_bg=%23000000&icon=octicon-eye&icon_color=%23FFFFFF&title=&edge_flat=true" alt="Profile Views" style="vertical-align:middle;" />
 </p>
 
 <p align="center"><b>Connect with me:</b></p>
