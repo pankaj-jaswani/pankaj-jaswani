@@ -13,7 +13,7 @@
 <p align="center"><b>Connect with me:</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pankaj-jaswani/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0077B5" height="32" alt="LinkedIn"/></a>&nbsp;<b>LinkedIn</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pankaj-jaswani/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn"/></a>&nbsp;<b>LinkedIn</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pankaj.vasudha1@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Gmail"/></a>&nbsp;<b>Gmail</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pankaj-jaswani" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub"/></a>&nbsp;<b>GitHub</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="tel:+917976455221" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" height="32" alt="WhatsApp"/></a>&nbsp;<b>WhatsApp</b>
