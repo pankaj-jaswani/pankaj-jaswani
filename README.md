@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=pankaj-jaswani&icon=eye&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pankaj-jaswani&label=%F0%9F%91%81%EF%B8%8F%20%20&color=000000&style=flat-square&label_color=000000" alt="Profile Views" />
 </p>
 
 <p align="center"><b>Connect with me:</b></p>
