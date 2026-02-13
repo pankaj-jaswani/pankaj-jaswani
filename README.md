@@ -10,18 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=pankaj-jaswani&label=&color=0D47A1&style=flat-square" alt="Profile Views" style="vertical-align:middle;" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="100"><a href="https://www.linkedin.com/in/pankaj-jaswani/"><img src="assets/linkedin-icon.svg" width="48" height="48" alt="LinkedIn"/></a></td>
-    <td align="center" width="100"><a href="mailto:pankaj.vasudha1@gmail.com"><img src="assets/gmail-icon.svg" width="48" height="48" alt="Gmail"/></a></td>
-    <td align="center" width="100"><a href="https://github.com/pankaj-jaswani"><img src="assets/github-icon.svg" width="48" height="48" alt="GitHub"/></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/pankaj-jaswani/"><b>LinkedIn</b></a></td>
-    <td align="center"><a href="mailto:pankaj.vasudha1@gmail.com"><b>Email</b></a></td>
-    <td align="center"><a href="https://github.com/pankaj-jaswani"><b>GitHub</b></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pankaj-jaswani/" target="_blank"><img src="assets/linkedin-icon.svg" width="35" height="35" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="mailto:pankaj.vasudha1@gmail.com" target="_blank"><img src="assets/gmail-icon.svg" width="35" height="35" alt="Gmail"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pankaj-jaswani" target="_blank"><img src="assets/github-icon.svg" width="35" height="35" alt="GitHub"/></a>
+</p>
 
 ---
 
