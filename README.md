@@ -12,21 +12,12 @@
 
 <p align="center"><b>Connect with me:</b></p>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="middle"><a href="https://www.linkedin.com/in/pankaj-jaswani/" target="_blank"><img src="assets/linkedin-icon.svg" height="30" alt="LinkedIn"/></a></td>
-    <td valign="middle"><a href="https://www.linkedin.com/in/pankaj-jaswani/" target="_blank"><b>&nbsp;LinkedIn</b></a></td>
-    <td width="20"></td>
-    <td valign="middle"><a href="mailto:pankaj.vasudha1@gmail.com" target="_blank"><img src="assets/gmail-icon.svg" height="30" alt="Gmail"/></a></td>
-    <td valign="middle"><a href="mailto:pankaj.vasudha1@gmail.com" target="_blank"><b>&nbsp;Gmail</b></a></td>
-    <td width="20"></td>
-    <td valign="middle"><a href="https://github.com/pankaj-jaswani" target="_blank"><img src="assets/github-icon.svg" height="30" alt="GitHub"/></a></td>
-    <td valign="middle"><a href="https://github.com/pankaj-jaswani" target="_blank"><b>&nbsp;GitHub</b></a></td>
-    <td width="20"></td>
-    <td valign="middle"><a href="tel:+917976455221" target="_blank"><img src="assets/whatsapp-icon.svg" height="30" alt="WhatsApp"/></a></td>
-    <td valign="middle"><a href="tel:+917976455221" target="_blank"><b>&nbsp;WhatsApp</b></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pankaj-jaswani/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_2021.svg" height="32" alt="LinkedIn"/></a>&nbsp;<b>LinkedIn</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pankaj.vasudha1@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="32" alt="Gmail"/></a>&nbsp;<b>Gmail</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pankaj-jaswani" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="32" alt="GitHub"/></a>&nbsp;<b>GitHub</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="tel:+917976455221" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp_Logo_green.svg" height="32" alt="WhatsApp"/></a>&nbsp;<b>WhatsApp</b>
+</p>
 
 ---
 
