@@ -144,7 +144,7 @@
 I built **RepoX** to consolidate 5 disparate workflows into one high-speed native application.
 
 | Feature Module | Manual/VBA Process | RepoX Automation (Rust) | Impact |
-| :--- | :--- | :--- | :--- |
+| :---: | :--- | :--- | :---: |
 | `Intelligent Dispatcher` | Manually split Excel rows, save files, attach to email. | **Drag-n-Drop:** Auto-fetches recent files, auto-splits master data, and dispatches. | **90% Time Saved** in Daily Dispatching |
 | `Data Engine` | VLOOKUPs & Macros on heavy VWork/Portal dumps. | **Rust Native Processing:** Handles Activation, Stock, & Prebooking data in seconds. | **Real-time Insights** vs 2-hr delay |
 | `Integrated Utils` | Switching to external "Bulk Renamer" or "Search" tools. | **Built-in Suite:** Native Bulk Rename (Regex/Prefix) & Quick Search Engine. | **Zero Context Switching** |
