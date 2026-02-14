@@ -22,8 +22,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" width="30" /> &nbsp;About Me
 
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/8047/8047485.png" width="120" />
-
 > **Decision Science & Sales Operations Leader** with **11+ years** of experience driving analytics-led decision making, operational diagnostics, and revenue governance across large sales ecosystems.
 
 - 🏢 &nbsp;Currently working as **Sales Operations & Delivery Lead** at **vivo India, Rajasthan**
@@ -124,6 +122,36 @@
 
 </div>
 
+---
+
+## 🚀 &nbsp;Project Spotlight: RepoX Automation
+
+<div align="center">
+
+> **"70% Efficiency Gain" isn't just a number.** It’s the result of systematically dismantling manual bottlenecks and replacing them with a unified **Rust-based Agentic Ecosystem**.
+
+</div>
+
+<br/>
+
+### 🔻 1. The Problem: "The VBA & Folder Chaos"
+*   **Fragmented Workflows:** Different VBA files for different tasks (Incentives, Stock, Sales).
+*   **Manual Handling:** Manually saving, splitting, and attaching files for 100+ mails daily.
+*   **Dependency Hell:** Relying on multiple 3rd-party tools (Bulk Renamers, UltraSearch) for basic utility.
+*   **Data Blindspots:** Portals provided *current* data, but no historical tracking or custom lifecycle strategies.
+
+### ⚡ 2. The RepoX Solution (Native Rust App)
+I built **RepoX** to consolidate 5 disparate workflows into one high-speed native application.
+
+| Feature Module | Manual/VBA Process | RepoX Automation (Rust) | Impact |
+| :--- | :--- | :--- | :--- |
+| **📨 Intelligent Dispatcher** | Manually split Excel rows, save files, attach to email. | **Drag-n-Drop:** Auto-fetches recent files, auto-splits master data, and dispatches. | **90% Time Saved** in Daily Dispatching |
+| **🏎️ Data Engine** | VLOOKUPs & Macros on heavy VWork/Portal dumps. | **Rust Native Processing:** Handles Activation, Stock, & Prebooking data in seconds. | **Real-time Insights** vs 2-hr delay |
+| **🛠️ Integrated Utils** | Switching to external "Bulk Renamer" or "Search" tools. | **Built-in Suite:** Native Bulk Rename (Regex/Prefix) & Quick Search Engine. | **Zero Context Switching** |
+| **🧠 Price Intelligence** | Portal showed only 'Current Price'. No history. | **Time-Travel:** Tracks Price Drops, generates Backdated Lists & assigns Life Stages. | **Strategic Advantage** unavailable in official tools |
+| **🎯 Accuracy** | High risk of wrong attachments or copy-paste errors. | **100% Precision:** Programmatic splitting and mapping eliminates human error. | **Zero Rework Time** |
+
+<br/>
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" /> &nbsp;GitHub Stats
