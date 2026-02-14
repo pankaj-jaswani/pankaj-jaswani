@@ -99,7 +99,7 @@
 | Period | Brand | Entity | Role | Core Focus & Automation | Key Highlight |
 |:---:|:---:|:---|:---|:---|:---|
 | `Aug 19 – Present` | <img src="assets/vivo-logo.png" width="50"/> | **Bubugao Communication Pvt Ltd** <br/> (vivo Rajasthan) | **Sales Reporting & Delivery Lead** | **RepoX Developer (Rust/Tauri)**, Power Automate, Advanced Analytics | ₹800 Cr Portfolio • 40+ Team <br/> 1300+ Outlets • RepoX Creator |
-| `Nov 16 – Jul 19` | <img src="assets/samsung-logo.png" width="50"/> | **Ganpati Aasha Future** <br/> (Samsung Partner) | **MIS Lead – Sales Insights & Reporting** | Sales Reporting & Channel Partner Analytics | 12+ Performance Tracks <br/> 98%+ Reporting Accuracy |
+| `Nov 16 – Aug 19` | <img src="assets/samsung-logo.png" width="50"/> | **Ganpati Aasha Future** <br/> (Samsung Partner) | **MIS Lead – Sales Insights & Reporting** | Sales Reporting & Channel Partner Analytics | 12+ Performance Tracks <br/> 98%+ Reporting Accuracy |
 | `Nov 14 – Oct 16` | <img src="assets/htc-logo.png" width="50"/> | **Vardhan** <br/> (HTC Regional Distribution) | **MIS Executive – Reporting & Operations** | Distribution Tracking & Inventory Management | 100% On-time Delivery <br/> 25% Error Reduction |
 
 </div>
