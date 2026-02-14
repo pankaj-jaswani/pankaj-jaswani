@@ -145,11 +145,11 @@ I built **RepoX** to consolidate 5 disparate workflows into one high-speed nativ
 
 | Feature Module | Manual/VBA Process | RepoX Automation (Rust) | Impact |
 | :--- | :--- | :--- | :--- |
-| **📨 Intelligent Dispatcher** | Manually split Excel rows, save files, attach to email. | **Drag-n-Drop:** Auto-fetches recent files, auto-splits master data, and dispatches. | **90% Time Saved** in Daily Dispatching |
-| **🏎️ Data Engine** | VLOOKUPs & Macros on heavy VWork/Portal dumps. | **Rust Native Processing:** Handles Activation, Stock, & Prebooking data in seconds. | **Real-time Insights** vs 2-hr delay |
-| **🛠️ Integrated Utils** | Switching to external "Bulk Renamer" or "Search" tools. | **Built-in Suite:** Native Bulk Rename (Regex/Prefix) & Quick Search Engine. | **Zero Context Switching** |
-| **🧠 Price Intelligence** | Portal showed only 'Current Price'. No history. | **Time-Travel:** Tracks Price Drops, generates Backdated Lists & assigns Life Stages. | **Strategic Advantage** unavailable in official tools |
-| **🎯 Accuracy** | High risk of wrong attachments or copy-paste errors. | **100% Precision:** Programmatic splitting and mapping eliminates human error. | **Zero Rework Time** |
+| <img src="https://via.placeholder.com/15/f0f0f0/000000?text=+" /> **Intelligent Dispatcher** | Manually split Excel rows, save files, attach to email. | **Drag-n-Drop:** Auto-fetches recent files, auto-splits master data, and dispatches. | **90% Time Saved** in Daily Dispatching |
+| <img src="https://via.placeholder.com/15/f0f0f0/000000?text=+" /> **Data Engine** | VLOOKUPs & Macros on heavy VWork/Portal dumps. | **Rust Native Processing:** Handles Activation, Stock, & Prebooking data in seconds. | **Real-time Insights** vs 2-hr delay |
+| <img src="https://via.placeholder.com/15/f0f0f0/000000?text=+" /> **Integrated Utils** | Switching to external "Bulk Renamer" or "Search" tools. | **Built-in Suite:** Native Bulk Rename (Regex/Prefix) & Quick Search Engine. | **Zero Context Switching** |
+| <img src="https://via.placeholder.com/15/f0f0f0/000000?text=+" /> **Price Intelligence** | Portal showed only 'Current Price'. No history. | **Time-Travel:** Tracks Price Drops, generates Backdated Lists & assigns Life Stages. | **Strategic Advantage** unavailable in official tools |
+| <img src="https://via.placeholder.com/15/f0f0f0/000000?text=+" /> **Accuracy** | High risk of wrong attachments or copy-paste errors. | **100% Precision:** Programmatic splitting and mapping eliminates human error. | **Zero Rework Time** |
 
 <br/>
 ---
