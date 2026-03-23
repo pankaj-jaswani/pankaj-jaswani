@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Pankaj Jaswani</h1>
-<h3 align="center">Sales Operations & Decision Science Practitioner</h3>
+<h3 align="center">Sales Operations & Analytics Lead</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1565C0&center=true&vCenter=true&repeat=true&width=480&height=25&lines=11%2B+Years+in+Sales+Ops+%26+Analytics;%E2%82%B9800+Cr+Revenue+Portfolio;40%2B+Team+Leader+%7C+Data+to+Decisions" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1565C0&center=true&vCenter=true&repeat=true&width=520&height=25&lines=11%2B+Years+in+Sales+Ops+%26+Analytics;%E2%82%B9800+Cr+Revenue+Portfolio;Analytics+Advisor+to+Leadership;RepoX+AI+Automation+Platform" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -22,14 +22,14 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" width="30" /> &nbsp;About Me
 
-> **Decision Science & Sales Operations Leader** with **11+ years** of experience driving analytics-led decision making, operational diagnostics, and revenue governance across large sales ecosystems.
+> **Decision Science & Sales Analytics Leader** with **11+ years** of experience driving revenue growth, operational efficiency, and AI-led transformation across large-scale sales ecosystems. Acted as a trusted analytics advisor to senior leadership, solving complex business problems using structured, hypothesis-driven approaches and scalable data solutions.
 
-- 🏢 &nbsp;Currently working as **Sales Operations & Delivery Lead** at **vivo India, Rajasthan**
-- 📊 &nbsp;Safeguarding **₹800 Cr+ annual revenue portfolio** with **33% YoY growth**
+- 🏢 &nbsp;Currently working as **Sales Operations & Analytics Lead** at **vivo India, Rajasthan**
+- 📊 &nbsp;Managing **₹800 Cr+ annual revenue portfolio** with **18% forecast accuracy improvement**
 - 👥 &nbsp;Leading a **cross-functional team of 40+ members** across 1,300+ outlets & 10+ distributors
-- 🚀 &nbsp;Created **RepoX** — an automation platform reducing **MIS effort by 70%** through Agentic AI
-- 🎯 &nbsp;Identified & mitigated **₹8–12 Cr monthly leakage** in Net Revenue
-- 🎓 &nbsp;**M.Com** in Business Administration from Jai Narain Vyas University, Jodhpur
+- 🚀 &nbsp;Created **RepoX** — an AI-powered platform automating **70%+ workflows** and saving **120+ hours/month**
+- 🎯 &nbsp;Eliminated **₹8–12 Cr monthly leakage** in revenue via strategic incentive design
+- 🎓 &nbsp;**M.Com** (2016) & **B.Com** (2014) in Business Administration & Finance from JNVU, Jodhpur
 
 ---
 
@@ -45,17 +45,21 @@
 ![Sales Funnel Health](https://img.shields.io/badge/Sales_Funnel_Health-2196F3?style=for-the-badge)
 
 ### 🧠 Decision Science & Analytics
-![Business Analytics](https://img.shields.io/badge/Business_Analytics-00695C?style=for-the-badge)
-![KPI Design](https://img.shields.io/badge/KPI_Design-00796B?style=for-the-badge)
-![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-00897B?style=for-the-badge)
-![Data-to-Decision](https://img.shields.io/badge/Data_to_Decision-009688?style=for-the-badge)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-26A69A?style=for-the-badge)
+![Hypothesis-Driven Solving](https://img.shields.io/badge/Hypothesis--Driven_Solving-00695C?style=for-the-badge)
+![GTM Strategy](https://img.shields.io/badge/GTM_Strategy-00796B?style=for-the-badge)
+![Pipeline Analytics](https://img.shields.io/badge/Pipeline_Analytics-00897B?style=for-the-badge)
+![Forecasting](https://img.shields.io/badge/Forecasting-009688?style=for-the-badge)
+![Revenue Optimization](https://img.shields.io/badge/Revenue_Optimization-26A69A?style=for-the-badge)
 
 ### 👔 Leadership & Consulting
-![Team Leadership 40+](https://img.shields.io/badge/Team_Leadership_(40+)-5D4037?style=for-the-badge)
 ![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-6D4C41?style=for-the-badge)
 ![Change Management](https://img.shields.io/badge/Change_Management-795548?style=for-the-badge)
-![Dispute Resolution](https://img.shields.io/badge/Dispute_Resolution-8D6E63?style=for-the-badge)
+![Team Leadership 40+](https://img.shields.io/badge/Team_Leadership_(40+)-5D4037?style=for-the-badge)
+
+### 🤖 AI Tools & Workflows
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa1c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge)
 
 </div>
 
@@ -69,6 +73,7 @@
   <tr>
     <td align="center" width="90"><img src="assets/excel-icon.png" width="48" height="48" alt="Excel"/></td>
     <td align="center" width="90"><img src="assets/powerbi-icon.svg" width="48" height="48" alt="Power BI"/></td>
+    <td align="center" width="90"><img src="assets/tableau-icon.svg" width="48" height="48" alt="Tableau"/></td>
     <td align="center" width="90"><img src="assets/salesforce-icon.svg" width="48" height="48" alt="Salesforce"/></td>
     <td align="center" width="90"><img src="assets/mysql-icon.svg" width="48" height="48" alt="SQL"/></td>
     <td align="center" width="90"><img src="assets/python-icon.svg" width="48" height="48" alt="Python"/></td>
@@ -79,6 +84,7 @@
   <tr>
     <td align="center"><b>Excel</b></td>
     <td align="center"><b>Power BI</b></td>
+    <td align="center"><b>Tableau</b></td>
     <td align="center"><b>Salesforce</b></td>
     <td align="center"><b>SQL</b></td>
     <td align="center"><b>Python</b></td>
@@ -98,9 +104,9 @@
 
 | Period | Brand | Entity | Role | Core Focus & Automation | Key Highlight |
 |:---:|:---:|:---|:---|:---|:---|
-| `Aug 19 – Present` | <img src="assets/vivo-logo.png" width="50"/> | **Bubugao Communication Pvt Ltd** <br/> (vivo Rajasthan) | **Sales Reporting & Delivery Lead** | **RepoX Developer (Rust/Tauri)**, Power Automate, Advanced Analytics | ₹800 Cr Portfolio • 40+ Team <br/> 1300+ Outlets • RepoX Creator |
-| `Nov 16 – Aug 19` | <img src="assets/samsung-logo.png" width="50"/> | **Ganpati Aasha Future** <br/> (Samsung Partner) | **MIS Lead – Sales Insights & Reporting** | Sales Reporting & Channel Partner Analytics | 12+ Performance Tracks <br/> 98%+ Reporting Accuracy |
-| `Nov 14 – Oct 16` | <img src="assets/htc-logo.png" width="50"/> | **Vardhan** <br/> (HTC Regional Distribution) | **MIS Executive – Reporting & Operations** | Distribution Tracking & Inventory Management | 100% On-time Delivery <br/> 25% Error Reduction |
+| `Aug 19 – Present` | <img src="assets/vivo-logo.png" width="50"/> | **Bubugao Communication Pvt Ltd** <br/> (vivo Rajasthan) | **Sales Operations & Analytics Lead** | **RepoX Developer**, Forecasting Systems, GTM Analytics | ₹800 Cr Portfolio • 18% Forecast Accuracy <br/> 10-15% Revenue Uplift • RepoX Creator |
+| `Nov 16 – Aug 19` | <img src="assets/samsung-logo.png" width="50"/> | **Ganpati Aasha Future** <br/> (Samsung Partner) | **MIS Lead – Sales Analytics** | Target vs Actual Frameworks, Availability Analytics | 20% Stock-out Reduction <br/> 15% Revenue Growth |
+| `Nov 14 – Oct 16` | <img src="assets/htc-logo.png" width="50"/> | **Vardhan** <br/> (HTC Regional Distribution) | **MIS Executive – Sales Operations** | Distribution Tracking & Dashboarding | 100% KPI Tracking <br/> Productivity Analysis |
 
 </div>
 
@@ -112,13 +118,13 @@
 
 | 🏆 Achievement | 📊 Impact |
 |:---|:---|
-| Revenue Portfolio Management | **₹800 Cr+** annual revenue safeguarded |
-| Revenue Leakage Mitigation | **₹8–12 Cr/month** savings identified |
-| RepoX Automation Platform | **70%** MIS effort reduction via Agentic AI |
+| Revenue Portfolio Management | **₹800 Cr+** annual revenue managed |
+| Revenue Leakage Mitigation | **₹8–12 Cr/month** savings eliminated |
+| Forecasting Accuracy | **18% improvement** via early-warning systems |
+| RepoX Automation Platform | **70%+** MIS automation • **120+ hours/month** saved |
+| Quarterly Revenue Impact | **₹20+ Cr** quarterly revenue influenced |
 | Platform Adoption | **100+ users** across 10+ distributors |
-| Quarterly Revenue Impact | **₹20–30 Cr** quarterly revenue influenced |
 | SLA Adherence | **100%** in high-pressure environments |
-| Reporting Accuracy | **98%+** at Samsung Mobile |
 
 </div>
 
@@ -141,7 +147,7 @@
 *   **Data Blindspots:** Portals provided *current* data, but no historical tracking or custom lifecycle strategies.
 
 ### ⚡ 2. The RepoX Solution (Native Rust App)
-I built **RepoX** to consolidate 5 disparate workflows into one high-speed native application.
+I built **RepoX** to consolidate 5 disparate workflows into one high-speed native application, reducing reporting TAT from **3 days to same-day**.
 
 | Feature Module | Manual/VBA Process | RepoX Automation (Rust) | Impact |
 | :---: | :--- | :--- | :---: |
