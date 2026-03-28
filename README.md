@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Pankaj Jaswani</h1>
-<h3 align="center">Sales Operations & Analytics Lead</h3>
+<h3 align="center">Regional Lead - Sales Strategy, Operations & Analytics</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1565C0&center=true&vCenter=true&repeat=true&width=520&height=25&lines=11%2B+Years+in+Sales+Ops+%26+Analytics;%E2%82%B9800+Cr+Revenue+Portfolio;Analytics+Advisor+to+Leadership;RepoX+AI+Automation+Platform" alt="Typing SVG" /></a>
